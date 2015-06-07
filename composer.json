@@ -1,0 +1,8 @@
+{
+    "require": {
+       "phpoffice/phpword": "dev-develop",
+       "dompdf/dompdf": "v0.6.1",
+       "mpdf/mpdf": "dev-master",
+       "ext-xsl": "*"
+    }
+}
